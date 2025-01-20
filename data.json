@@ -1,0 +1,17 @@
+{
+   "name":"Drudy Coin",
+   "symbol":"DRUDY",
+   "description":"A fun memecoin for friends!",
+   "image":"https://ibb.co/4YR0XPv",
+   "attributes":[
+      
+   ],
+   "properties":{
+      "files":[
+         {
+            "uri":"https://ibb.co/4YR0XPv",
+            "type":"image/png"
+         }
+      ]
+   }
+}
