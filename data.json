@@ -2,7 +2,7 @@
     "name": "Drudy Coin",
     "symbol": "DRUDY",
     "description": "Cans and Plans social currency",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "image": "https://github.com/daranasaurus/Image/blob/main/Lazer%20eyes.jpg",
     "attributes": [
       {
         "trait_type": "Item",
