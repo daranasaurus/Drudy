@@ -1,5 +1,12 @@
 {
-  "name": "Drudy Coin",
-  "symbol": "DRUDY",
-  "image": "https://i.ibb.co/bNd8mxg/laser-eyes-3.jpg"
-}
+    "name": "Drudy Coin",
+    "symbol": "DRUDY",
+    "description": "Cans and Plans social currency",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Compressed Coil"
+      }
+    ]
+  }
